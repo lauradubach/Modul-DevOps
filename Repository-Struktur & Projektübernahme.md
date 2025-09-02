@@ -18,7 +18,7 @@ Wichtige Bestandteile im `.git`-Ordner:
 - **hooks** → Skripte zur Automatisierung (z. B. pre-commit)  
 - **logs** → Historie von Branch- und Referenzänderungen  
 
-![Git_folder](git_folder.png)
+![Git Folder](Pictures/git_folder.png)
 
 ## Rolle
 Der `.git`-Ordner ermöglicht Git:

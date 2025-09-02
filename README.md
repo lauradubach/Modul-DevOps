@@ -27,7 +27,7 @@ Monitoring und Feedback
 **Operate:** Produktionssysteme warten und betreiben
 **Monitor:** Leistung überwachen und Probleme identifizieren
 
-![Lifecycle](DevOps_Lifecycle.png)
+![Lifecycle](Pictures/DevOps_Lifecycle.png)
 
 # Vertiefung
 
