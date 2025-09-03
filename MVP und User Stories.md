@@ -1,9 +1,11 @@
 # Minimum Viable Product (MVP)
 
+![MVP](Pictures/MVP.png)
+
 ## Definition
 - MVP = erste brauchbare Version eines Produkts, einer Dienstleistung oder Geschäftsidee  
 - Ziel: Mit minimalem Aufwand maximales Kundenfeedback gewinnen  
-- Ursprung: Lean Startup Methode (Eric Ries)  
+- Ursprung: Lean Startup Methode (Eric Ries)
 
 ## Ziel des MVP
 - Nicht, ein Produkt mit wenigen Funktionen, Sondern ein Produkt, das bereits Nutzen stiftet und Feedback ermöglicht  
