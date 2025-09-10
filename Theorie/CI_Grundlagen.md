@@ -25,6 +25,9 @@
 - **Tool-/Infrastrukturvielfalt** kann komplex sein 
 
 ## Typischer CI-Workflow
+
+![CI_Ablauf](Pictures/ci_ablauf.png)
+
 1. Lokale Entwicklung & Tests  
 2. **Commit/Push/Pull Request** ins Repo  
 3. CI-Server startet Build (Trigger via Hook)  
