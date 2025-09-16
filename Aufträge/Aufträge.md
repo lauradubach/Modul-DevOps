@@ -1,4 +1,4 @@
-# Manuelle Installationsanleitung für Ecommerce (Port 80)
+# Manuelle Installationsanleitung für Ecommerce (Tag 1)
 
 ## Voraussetzungen
 
@@ -206,4 +206,3 @@ auf den server kopieren:
 entzippen:
 
 `sudo unzip -o 01_Flask-Python-E-Commerce-Website.zip -d /opt/`
-
